@@ -13,8 +13,7 @@ SmartCompiler is an intelligent Python code compiler built in Python that automa
   
   📂 Organizes test files in an examples/ directory for easy testing
 
-## 📁 Project Structure:
-![Screenshot 2025-05-13 152720](https://github.com/user-attachments/assets/70f0e6ca-5fcd-451d-b81f-ae2696268988)
+
 
 ## ⚙️ How It Works:
 Run main.py with a file path:
